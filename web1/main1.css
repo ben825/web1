@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}  
+			div {
+
+
+
+
+				width: 50%;
+				margin:auto;
+			}
+
+
+
+             h1{
+             	font-size: 78px;
+             	color:red;
+             	font-family:"Pacifico",cursiwe 
+             }
+
+
+             p {
+
+                font-size: 78px;
+             	color:red;
+             	text-align: right;
+             	font-family:'cormorain';
+                text-align: center;
+                display: 28px;
+
+             }
+             a{
+                 font-size: 70px;
+                 color: green;
+
+                 text-decoration: none;
+
+                 border: 5px inset blue;
+                 padding: 3px;
+
+                 margin: 10px 0 0 10px;
+                 display: inline-block;
+
+
+}
+
+
+  a:hover {
+    border: 6px inset ;
+    color: blue;
+    background-color:blue ;
+}
+
+body {
+    /*background-color: #0000000;*/
+
+    /*background-image: url(2.jpg);
+    background-size: cover;
+    background-position: center;
+*/
+}
+img {
+    width: 68%;
+    height: 40px;
+    min-width: 20px;
+    height: auto;
+
+    margin: auto;
+    padding: 18px;
+    display:block;
+
+
+}
+
+}
